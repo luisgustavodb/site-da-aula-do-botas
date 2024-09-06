@@ -1,55 +1,54 @@
 <html lang="pt-br">
-
-
 <head>
-
-
 <style>
-
-
-    body{
-   
-    text-align:center;  
-    background-color: #25EBFA;
-    color: #2925FA;
-   
+    body {
+        text-align: center;  
+        background-color: #25EBFA;
+        color: #2925FA;
     }
-   
-    p{
-   
-    margin: 70px;
-
-
+    p {
+        margin: 70px;
     }
-    header{
-
-
+    header {
         border-bottom: solid 2px red;
-        padding:35px;
+        padding: 35px;
         font-size: 30px;
-
-
-
-
     }
-
-
+    .video-container {
+        margin: 20px;
+    }
 </style>
-
-
-<title>DINHEIRO GRATIS AQUI !!!</title>
+<title>Catálogo de Vídeos sobre Carros</title>
 </head>
-
-
 <body>
-<header>CLIQUE NO VIDEO E GANHE 1000000 REAIS !!!</header>
-<h2>ESSA È SUA CHANCE DE SE TORNAR UM MILIONARIO !!!</h2>
-<p>#ganhar_dinheiro #ficar_rico #milionario #din_din</p>
-<iframe width="480" height="270" src="https://www.youtube.com/embed/bgbBkl2qoCM" frameborder="0" allowfullscreen></iframe>
+<header>Catálogo de Vídeos sobre Carros</header>
+<h2>Explore os melhores vídeos sobre carros!</h2>
+<p>#carros #automóveis #carro #video</p>
 
+<div class="video-container">
+    <h3>Vídeo 1: Test Drive do Novo Ferrari</h3>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+    <h3>Vídeo 2: Avaliação do Tesla Model S</h3>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+    <h3>Vídeo 3: Como fazer manutenção no seu carro</h3>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+    <h3>Vídeo 4: As Novidades do Salão do Automóvel</h3>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="video-container">
+    <h3>Vídeo 5: Comparativo entre SUVs Populares</h3>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/VIDEO_ID_5" frameborder="0" allowfullscreen></iframe>
+</div>
 
 </body>
-
-
 </html>
-
